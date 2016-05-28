@@ -1,8 +1,3 @@
-Test Out the public git data on private git!
-Test Out the public git data on private git!
-Test Out the public git data on private git!
-Test Out the public git data on private git!
-Test Out the public git data on private git!
 
 CONTENTS OF THIS FILE
 ---------------------
